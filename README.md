@@ -1,6 +1,8 @@
 # javascript-algorithms
 A Simple Repository With All Challenge Problems For Practicing JavaScript Programming Language
 
+![Just Because Images Are Cool😺](https://images.unsplash.com/photo-1491002052546-bf38f186af56?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&dpr=1&auto=format&fit=crop&w=1000&q=80&cs=tinysrgb)
+
 __A List Of All Algorithms__
 1. Alphabetized -> [See Source Code](https://github.com/pomegranitedesign/javascript-algorithms/blob/master/alphabetized/index.js)
 2. Balanced Number -> [See Source Code](https://github.com/pomegranitedesign/javascript-algorithms/blob/master/balancedNumber/index.js)
